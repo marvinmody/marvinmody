@@ -1,17 +1,22 @@
-<p align="center">
-  <img src="./assets/swiss-grid.svg" alt="Marvin Mody — engineering, with an eye for design." width="100%" />
-</p>
+          ___           ___           marvin mody / 
+         /\__\         /\__\          ________________________________________________________________
+        /::|  |       /::|  |          Host ......................... Stevens Institute of Technology
+       /:|:|  |      /:|:|  |           Building ...................... Co-founder / developer @ Phasm
+      /:/|:|__|__   /:/|:|__|__          Previously .............. Supply Chain Engineer Intern @ Zebra
+     /:/ |::::\__\ /:/ |::::\__\          Focus ............. Applied AI / simulation / interface design
+     \/__/~~/:/  / \/__/~~/:/  /
+           /:/  /        /:/  /       -- toolchain ---------------------------------------------------
+          /:/  /        /:/  /           Languages ............. Python / C++ / TypeScript / Java / SQL
+         /:/  /        /:/  /           Interfaces ................. React / Next.js / Tailwind / Qt 6
+         \/__/         \/__/           Services ........................ FastAPI / Express / Supabase
+                                      Compute .............. Docker / CalculiX / TensorFlow / OpenCV
+                                        
+                                      -- workbench ---------------------------------------------------
+    learning new things.               01  Phasm          CAD -> simulation -> insight
+                                        02  better2gether  documents -> agents -> maps
+                                         03  Synapse Health symptom logging + AI feedback
 
-### Engineering, with an eye for design.
-
-I'm Marvin, a computer engineering student at Stevens and co-founder of [Phasm](https://phasm.co). I build interfaces, AI workflows, and simulation tools that make complex systems easier to understand and use.
-
-### index
-
-- **[Phasm](https://phasm.co)** — From CAD to structural insight. AI-assisted simulation tools for drone design.
-- **[better2gether](https://github.com/marvinmody/better2gether)** — From documents to decisions. Infrastructure investment planning with AI agents and interactive maps.
-- **[Synapse Health](https://synapsehealth.vercel.app/)** — From symptoms to insights. A health-logging interface with AI feedback and image analysis.
-
----
-
-[marvinmody.me](https://marvinmody.me) · [LinkedIn](https://linkedin.com/in/marvinrm)
+                                      -- open channels -----------------------------------------------
+                                          Web ............................................ marvinmody.me
+                                        LinkedIn ............................ linkedin.com/in/marvinrm
+                                      Email ................................ themarvinmody@gmail.com
